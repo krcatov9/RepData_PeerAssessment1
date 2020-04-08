@@ -1,3 +1,9 @@
+## My Introduction
+
+In this repository are included every part of this project.  I included the R Markdown file, the html file (even though you may not be able to view the file itself; the link to the created page is here: file:///Users/allisonturner/Desktop/r/PA1_template.html), this ReadMe and the original data and instructions already included.  All of the original directions are included below so that you can see what my assignment was.  
+
+To summarize: I took data from an activity monitoring band database, which counted number of steps each 5-minute interval on one person for 2 months.  Then, I took this raw data and organized it to answer the questions shown below.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
